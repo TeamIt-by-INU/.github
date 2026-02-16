@@ -2,8 +2,8 @@
 
   Incheon University Capstone Team Collaboration Platform
 
-  Deploy API (https://github.com/TeamIt-by-INU/api/actions/workflows/main.yml)
-  Deploy Front (https://github.com/TeamIt-by-INU/front/actions/workflows/main.yml)
+[![Deploy Front](https://github.com/TeamIt-by-INU/front/actions/workflows/main.yml/badge.svg)](https://github.com/TeamIt-by-INU/front/actions/workflows/main.yml)
+[![Deploy API](https://github.com/TeamIt-by-INU/api/actions/workflows/main.yml/badge.svg)](https://github.com/TeamIt-by-INU/api/actions/workflows/main.yml)
 
   ———
 
